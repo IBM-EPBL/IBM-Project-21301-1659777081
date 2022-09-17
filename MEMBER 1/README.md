@@ -1,2 +1,0 @@
-# MEMBER 1
-###  ASHFA NIHAR J
