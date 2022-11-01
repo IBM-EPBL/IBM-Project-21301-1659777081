@@ -1,0 +1,4 @@
+.photo-flex{
+    display:flex;
+    flex-direction: row;
+}
