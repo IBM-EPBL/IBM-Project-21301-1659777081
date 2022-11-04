@@ -1,4 +1,5 @@
-.photo-flex{
-    display:flex;
-    flex-direction: row;
+body{
+padding-bottom: 20px;
+text-align: center;
+font-size: 50px;
 }
